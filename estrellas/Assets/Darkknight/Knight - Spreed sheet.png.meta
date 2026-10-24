@@ -1,0 +1,2085 @@
+fileFormatVersion: 2
+guid: 62a175bf06d010e49857b35e45d4d0f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4557189176840392135
+    second: Knight - Spreed sheet_0
+  - first:
+      213: -5039706376596700722
+    second: Knight - Spreed sheet_1
+  - first:
+      213: -1012012502869659242
+    second: Knight - Spreed sheet_2
+  - first:
+      213: 1431936456083727578
+    second: Knight - Spreed sheet_3
+  - first:
+      213: -727778185770904106
+    second: Knight - Spreed sheet_4
+  - first:
+      213: 233565029837527931
+    second: Knight - Spreed sheet_5
+  - first:
+      213: 6818808317620066747
+    second: Knight - Spreed sheet_6
+  - first:
+      213: -8482700665439186395
+    second: Knight - Spreed sheet_7
+  - first:
+      213: 638899685470093260
+    second: Knight - Spreed sheet_8
+  - first:
+      213: 944840325345811045
+    second: Knight - Spreed sheet_9
+  - first:
+      213: -3434149728422714017
+    second: Knight - Spreed sheet_10
+  - first:
+      213: 4368029500524502170
+    second: Knight - Spreed sheet_11
+  - first:
+      213: 3427050858821074413
+    second: Knight - Spreed sheet_12
+  - first:
+      213: -5297793472572741641
+    second: Knight - Spreed sheet_13
+  - first:
+      213: -3478443367860226108
+    second: Knight - Spreed sheet_14
+  - first:
+      213: -507954219455540808
+    second: Knight - Spreed sheet_15
+  - first:
+      213: -8533606676985660744
+    second: Knight - Spreed sheet_16
+  - first:
+      213: -3919916373963898014
+    second: Knight - Spreed sheet_17
+  - first:
+      213: -793489858153428377
+    second: Knight - Spreed sheet_18
+  - first:
+      213: -6126933192357215289
+    second: Knight - Spreed sheet_19
+  - first:
+      213: 6967842831341717628
+    second: Knight - Spreed sheet_20
+  - first:
+      213: 2053330548427163287
+    second: Knight - Spreed sheet_21
+  - first:
+      213: -3304548937840095400
+    second: Knight - Spreed sheet_22
+  - first:
+      213: -5385185291329584672
+    second: Knight - Spreed sheet_23
+  - first:
+      213: -3021591413168114837
+    second: Knight - Spreed sheet_24
+  - first:
+      213: 1610601005342878907
+    second: Knight - Spreed sheet_25
+  - first:
+      213: -2938244002807930611
+    second: Knight - Spreed sheet_26
+  - first:
+      213: 6138396943620316351
+    second: Knight - Spreed sheet_27
+  - first:
+      213: 3890995487040444475
+    second: Knight - Spreed sheet_28
+  - first:
+      213: -8884135524394592849
+    second: Knight - Spreed sheet_29
+  - first:
+      213: -127013789999258727
+    second: Knight - Spreed sheet_30
+  - first:
+      213: -3541859598124412161
+    second: Knight - Spreed sheet_31
+  - first:
+      213: -951598147459731246
+    second: Knight - Spreed sheet_32
+  - first:
+      213: -3271259822550081578
+    second: Knight - Spreed sheet_33
+  - first:
+      213: 7934991387222145190
+    second: Knight - Spreed sheet_34
+  - first:
+      213: 8915947675674341222
+    second: Knight - Spreed sheet_35
+  - first:
+      213: -5353074900740343999
+    second: Knight - Spreed sheet_36
+  - first:
+      213: 2711672731933635169
+    second: Knight - Spreed sheet_37
+  - first:
+      213: 1759642327897198552
+    second: Knight - Spreed sheet_38
+  - first:
+      213: 6851460687643126179
+    second: Knight - Spreed sheet_39
+  - first:
+      213: -662763489034010260
+    second: Knight - Spreed sheet_40
+  - first:
+      213: 2527843807597816128
+    second: Knight - Spreed sheet_41
+  - first:
+      213: 4182409191414408619
+    second: Knight - Spreed sheet_42
+  - first:
+      213: -786369217244139167
+    second: Knight - Spreed sheet_43
+  - first:
+      213: -648813835011820304
+    second: Knight - Spreed sheet_44
+  - first:
+      213: -2243438215223512573
+    second: Knight - Spreed sheet_45
+  - first:
+      213: 1443929234044026819
+    second: Knight - Spreed sheet_46
+  - first:
+      213: -2817208624380940779
+    second: Knight - Spreed sheet_47
+  - first:
+      213: -5792546996275792553
+    second: Knight - Spreed sheet_48
+  - first:
+      213: -7935837246140559074
+    second: Knight - Spreed sheet_49
+  - first:
+      213: -1915140760664717355
+    second: Knight - Spreed sheet_50
+  - first:
+      213: 4345983633619529369
+    second: Knight - Spreed sheet_51
+  - first:
+      213: 815609393074474736
+    second: Knight - Spreed sheet_52
+  - first:
+      213: 5432163218948508321
+    second: Knight - Spreed sheet_53
+  - first:
+      213: -1559437620242485449
+    second: Knight - Spreed sheet_54
+  - first:
+      213: 5075179913558347092
+    second: Knight - Spreed sheet_55
+  - first:
+      213: -7829716621770415780
+    second: Knight - Spreed sheet_56
+  - first:
+      213: 5318723200772517704
+    second: Knight - Spreed sheet_57
+  - first:
+      213: -5279697572144070432
+    second: Knight - Spreed sheet_58
+  - first:
+      213: -2988280979530216033
+    second: Knight - Spreed sheet_59
+  - first:
+      213: 7032292749113331425
+    second: Knight - Spreed sheet_60
+  - first:
+      213: 4596341754367405039
+    second: Knight - Spreed sheet_61
+  - first:
+      213: 6261201006571978475
+    second: Knight - Spreed sheet_62
+  - first:
+      213: -5193951015407351116
+    second: Knight - Spreed sheet_63
+  - first:
+      213: -8997513707715228484
+    second: Knight - Spreed sheet_64
+  - first:
+      213: 7825621270982741234
+    second: Knight - Spreed sheet_65
+  - first:
+      213: -7885202694129198848
+    second: Knight - Spreed sheet_66
+  - first:
+      213: 3845520828854283834
+    second: Knight - Spreed sheet_67
+  - first:
+      213: -5404038632248133655
+    second: Knight - Spreed sheet_68
+  - first:
+      213: 4614934603951093897
+    second: Knight - Spreed sheet_69
+  - first:
+      213: 1319847011160495920
+    second: Knight - Spreed sheet_70
+  - first:
+      213: 7513310091450172353
+    second: Knight - Spreed sheet_71
+  - first:
+      213: 4467723939483394853
+    second: Knight - Spreed sheet_72
+  - first:
+      213: -4789012550066856127
+    second: Knight - Spreed sheet_73
+  - first:
+      213: -6430205258324762321
+    second: Knight - Spreed sheet_74
+  - first:
+      213: -6522793386178923099
+    second: Knight - Spreed sheet_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9327c24b69c91c0c0800000000000000
+      internalID: -4557189176840392135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1374
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1cea280cd5f0ab0800000000000000
+      internalID: -5039706376596700722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1374
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69133329dfb94f1f0800000000000000
+      internalID: -1012012502869659242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1374
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46dcdbe924fd310800000000000000
+      internalID: 1431936456083727578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1374
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d8d1989966e5f0800000000000000
+      internalID: -727778185770904106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1374
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5b6b382acd3300800000000000000
+      internalID: 233565029837527931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1374
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9193b890641ae50800000000000000
+      internalID: 6818808317620066747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522178420b4674a80800000000000000
+      internalID: -8482700665439186395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfbd8ff0e3ddd800800000000000000
+      internalID: 638899685470093260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a93b9154fbc1d00800000000000000
+      internalID: 944840325345811045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552cd354037750d0800000000000000
+      internalID: -3434149728422714017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c903b10bb5e9c30800000000000000
+      internalID: 4368029500524502170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded3a3b49945f8f20800000000000000
+      internalID: 3427050858821074413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72be5d7e47a76b0800000000000000
+      internalID: -5297793472572741641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_14
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b06fbf261abfc0800000000000000
+      internalID: -3478443367860226108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b11133245263f8f0800000000000000
+      internalID: -507954219455540808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1248
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3e55b0f9829980800000000000000
+      internalID: -8533606676985660744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305a493d8a999c0800000000000000
+      internalID: -3919916373963898014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac3e79d25fcf4f0800000000000000
+      internalID: -793489858153428377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c38ff239b2c8faa0800000000000000
+      internalID: -6126933192357215289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7800ec4320c2b060800000000000000
+      internalID: 6967842831341717628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79685793145ee7c10800000000000000
+      internalID: 2053330548427163287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_22
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f8521df32e322d0800000000000000
+      internalID: -3304548937840095400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e144ac628af345b0800000000000000
+      internalID: -5385185291329584672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637eb96e962116d0800000000000000
+      internalID: -3021591413168114837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc695eb4110a5610800000000000000
+      internalID: 1610601005342878907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01263d95a24937d0800000000000000
+      internalID: -2938244002807930611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc15d26f77ff2550800000000000000
+      internalID: 6138396943620316351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1122
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3891b3b7c79ff530800000000000000
+      internalID: 3890995487040444475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5180c8fc535b480800000000000000
+      internalID: -8884135524394592849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993a48581a1cc3ef0800000000000000
+      internalID: -127013789999258727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29c790679c8dec0800000000000000
+      internalID: -3541859598124412161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d03eb3d68e3bc2f0800000000000000
+      internalID: -951598147459731246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df15e4f5862a92d0800000000000000
+      internalID: -3271259822550081578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8f82310a0ce1e60800000000000000
+      internalID: 7934991387222145190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe98c1c2fcbbb70800000000000000
+      internalID: 8915947675674341222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_36
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147ff455dbe06b5b0800000000000000
+      internalID: -5353074900740343999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162740e8bfbc1a520800000000000000
+      internalID: 2711672731933635169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfcd0ecf518b6810800000000000000
+      internalID: 1759642327897198552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9a58fd137451f50800000000000000
+      internalID: 6851460687643126179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 996
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6187024e146dc6f0800000000000000
+      internalID: -662763489034010260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e987cc84b41320800000000000000
+      internalID: 2527843807597816128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 870
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a59f0007ea0a30800000000000000
+      internalID: 4182409191414408619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 870
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1617cdffc514615f0800000000000000
+      internalID: -786369217244139167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_44
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 870
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4f2ce2143fef6f0800000000000000
+      internalID: -648813835011820304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 870
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302f01a54d4bdd0e0800000000000000
+      internalID: -2243438215223512573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_46
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 870
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cffef3fcfdd90410800000000000000
+      internalID: 1443929234044026819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6b9daea347e8d0800000000000000
+      internalID: -2817208624380940779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 744
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755b936723dbc9fa0800000000000000
+      internalID: -5792546996275792553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 744
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e115a7c021e3ed190800000000000000
+      internalID: -7935837246140559074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_50
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 744
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d745b100ad0c65e0800000000000000
+      internalID: -1915140760664717355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 744
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ead89b619005c30800000000000000
+      internalID: 4345983633619529369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe0da5fb60a15b00800000000000000
+      internalID: 815609393074474736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa4e53baabe26b40800000000000000
+      internalID: 5432163218948508321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_54
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fe0142fb3cb5ae0800000000000000
+      internalID: -1559437620242485449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_55
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc7deed39ae6640800000000000000
+      internalID: 5075179913558347092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5127635732475390800000000000000
+      internalID: -7829716621770415780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_57
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84faca04296efc940800000000000000
+      internalID: 5318723200772517704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_58
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e04cdaf70fbab6b0800000000000000
+      internalID: -5279697572144070432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_59
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d8b0e184e7786d0800000000000000
+      internalID: -2988280979530216033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee84732ff8b79160800000000000000
+      internalID: 7032292749113331425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb6d5f197c79cf30800000000000000
+      internalID: 4596341754367405039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 618
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee7a08642144e650800000000000000
+      internalID: 6261201006571978475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba8dd9f1116be7b0800000000000000
+      internalID: -5193951015407351116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_64
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc0de524f8622380800000000000000
+      internalID: -8997513707715228484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fccaa385113a9c60800000000000000
+      internalID: 7825621270982741234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009d9726de1229290800000000000000
+      internalID: -7885202694129198848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea934c1d80e5530800000000000000
+      internalID: 3845520828854283834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_68
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7bc5cee7ff005b0800000000000000
+      internalID: -5404038632248133655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_69
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988b922429a8b0040800000000000000
+      internalID: 4614934603951093897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_70
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03715122dd9015210800000000000000
+      internalID: 1319847011160495920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3ce3098b3a44860800000000000000
+      internalID: 7513310091450172353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 492
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523aa6f704b800e30800000000000000
+      internalID: 4467723939483394853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_73
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 240
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f906085720a8db0800000000000000
+      internalID: -4789012550066856127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight - Spreed sheet_74
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 114
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2124b0e26253c6a0800000000000000
+      internalID: -6430205258324762321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7823211a42cff6f40a632666185217c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":125.0,"y":126.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight - Spreed sheet_0: -4557189176840392135
+      Knight - Spreed sheet_1: -5039706376596700722
+      Knight - Spreed sheet_10: -3434149728422714017
+      Knight - Spreed sheet_11: 4368029500524502170
+      Knight - Spreed sheet_12: 3427050858821074413
+      Knight - Spreed sheet_13: -5297793472572741641
+      Knight - Spreed sheet_14: -3478443367860226108
+      Knight - Spreed sheet_15: -507954219455540808
+      Knight - Spreed sheet_16: -8533606676985660744
+      Knight - Spreed sheet_17: -3919916373963898014
+      Knight - Spreed sheet_18: -793489858153428377
+      Knight - Spreed sheet_19: -6126933192357215289
+      Knight - Spreed sheet_2: -1012012502869659242
+      Knight - Spreed sheet_20: 6967842831341717628
+      Knight - Spreed sheet_21: 2053330548427163287
+      Knight - Spreed sheet_22: -3304548937840095400
+      Knight - Spreed sheet_23: -5385185291329584672
+      Knight - Spreed sheet_24: -3021591413168114837
+      Knight - Spreed sheet_25: 1610601005342878907
+      Knight - Spreed sheet_26: -2938244002807930611
+      Knight - Spreed sheet_27: 6138396943620316351
+      Knight - Spreed sheet_28: 3890995487040444475
+      Knight - Spreed sheet_29: -8884135524394592849
+      Knight - Spreed sheet_3: 1431936456083727578
+      Knight - Spreed sheet_30: -127013789999258727
+      Knight - Spreed sheet_31: -3541859598124412161
+      Knight - Spreed sheet_32: -951598147459731246
+      Knight - Spreed sheet_33: -3271259822550081578
+      Knight - Spreed sheet_34: 7934991387222145190
+      Knight - Spreed sheet_35: 8915947675674341222
+      Knight - Spreed sheet_36: -5353074900740343999
+      Knight - Spreed sheet_37: 2711672731933635169
+      Knight - Spreed sheet_38: 1759642327897198552
+      Knight - Spreed sheet_39: 6851460687643126179
+      Knight - Spreed sheet_4: -727778185770904106
+      Knight - Spreed sheet_40: -662763489034010260
+      Knight - Spreed sheet_41: 2527843807597816128
+      Knight - Spreed sheet_42: 4182409191414408619
+      Knight - Spreed sheet_43: -786369217244139167
+      Knight - Spreed sheet_44: -648813835011820304
+      Knight - Spreed sheet_45: -2243438215223512573
+      Knight - Spreed sheet_46: 1443929234044026819
+      Knight - Spreed sheet_47: -2817208624380940779
+      Knight - Spreed sheet_48: -5792546996275792553
+      Knight - Spreed sheet_49: -7935837246140559074
+      Knight - Spreed sheet_5: 233565029837527931
+      Knight - Spreed sheet_50: -1915140760664717355
+      Knight - Spreed sheet_51: 4345983633619529369
+      Knight - Spreed sheet_52: 815609393074474736
+      Knight - Spreed sheet_53: 5432163218948508321
+      Knight - Spreed sheet_54: -1559437620242485449
+      Knight - Spreed sheet_55: 5075179913558347092
+      Knight - Spreed sheet_56: -7829716621770415780
+      Knight - Spreed sheet_57: 5318723200772517704
+      Knight - Spreed sheet_58: -5279697572144070432
+      Knight - Spreed sheet_59: -2988280979530216033
+      Knight - Spreed sheet_6: 6818808317620066747
+      Knight - Spreed sheet_60: 7032292749113331425
+      Knight - Spreed sheet_61: 4596341754367405039
+      Knight - Spreed sheet_62: 6261201006571978475
+      Knight - Spreed sheet_63: -5193951015407351116
+      Knight - Spreed sheet_64: -8997513707715228484
+      Knight - Spreed sheet_65: 7825621270982741234
+      Knight - Spreed sheet_66: -7885202694129198848
+      Knight - Spreed sheet_67: 3845520828854283834
+      Knight - Spreed sheet_68: -5404038632248133655
+      Knight - Spreed sheet_69: 4614934603951093897
+      Knight - Spreed sheet_7: -8482700665439186395
+      Knight - Spreed sheet_70: 1319847011160495920
+      Knight - Spreed sheet_71: 7513310091450172353
+      Knight - Spreed sheet_72: 4467723939483394853
+      Knight - Spreed sheet_73: -4789012550066856127
+      Knight - Spreed sheet_74: -6430205258324762321
+      Knight - Spreed sheet_8: 638899685470093260
+      Knight - Spreed sheet_9: 944840325345811045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
