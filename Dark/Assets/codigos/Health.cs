@@ -15,6 +15,7 @@ public class Health : MonoBehaviour
     public bool IsDead { get; private set; }
     public int Current => current;
     public int Max => maxHealth;
+    public float Percent => (float)current / maxHealth;   // 0 a 1
 
     void Awake()
     {

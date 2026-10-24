@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+
 public class PlayerController : MonoBehaviour
 {
     public CoinFlyAnimation coinFlyAnimation;
@@ -13,9 +14,16 @@ public class PlayerController : MonoBehaviour
     [SerializeField] Transform attackPoint;
     [SerializeField] float attackRadius = 0.5f;
     [SerializeField] LayerMask enemyLayer;
-    [SerializeField] int attackDamage = 1;
-    [SerializeField] float attackCooldown = 0.4f;
+    [SerializeField] float attackCooldown = 0.4f;     // mínimo entre golpes del combo
     [SerializeField] float attackAnimTime = 0.4f;
+
+    [Header("Combo")]
+    [SerializeField] float comboWindow = 0.8f;         // tiempo máx. desde el golpe anterior para encadenar
+    [SerializeField] float finisherCooldown = 0.7f;    // pausa tras el 3er golpe
+    [SerializeField] int[] comboDamage = { 1, 1, 2 };  // daño de cada golpe
+
+    [Header("Vida")]
+    [SerializeField] float lowHealthThreshold = 0.6f;  // por debajo (o igual) usa el idle herido
 
     Rigidbody2D rb;
     Animator anim;
@@ -25,8 +33,10 @@ public class PlayerController : MonoBehaviour
     bool grounded;
     float nextAttack;
     float attackingUntil;
+    int comboStep;          // 0 = ninguno todavía
+    float lastAttackTime;
     private int coins;
-    public  TMP_Text textcoins;
+    public TMP_Text textcoins;
     private int estrella;
     public TMP_Text textestrella;
     public int vida = 3;
@@ -57,10 +67,18 @@ public class PlayerController : MonoBehaviour
 
         if ((Input.GetKeyDown(KeyCode.J) || Input.GetMouseButtonDown(0)) && Time.time >= nextAttack)
         {
-            nextAttack = Time.time + attackCooldown;
+            // si pasó demasiado tiempo, el combo vuelve al primer golpe
+            if (Time.time - lastAttackTime > comboWindow) comboStep = 0;
+
+            comboStep++;
+            lastAttackTime = Time.time;
+            nextAttack = Time.time + (comboStep >= 3 ? finisherCooldown : attackCooldown);
             attackingUntil = Time.time + attackAnimTime;
-            anim.SetTrigger("Attack");
-            Attack();
+
+            anim.SetTrigger("Attack" + comboStep);   // Attack1, Attack2 o Attack3
+            Attack(comboDamage[comboStep - 1]);
+
+            if (comboStep >= 3) comboStep = 0;       // el combo termina y se reinicia
         }
 
         if (moveX > 0) sr.flipX = false;
@@ -75,6 +93,7 @@ public class PlayerController : MonoBehaviour
         anim.SetFloat("VelocityY", rb.linearVelocity.y);
         anim.SetBool("Grounded", grounded);
         anim.SetBool("Attacking", Time.time < attackingUntil);
+        anim.SetBool("LowHealth", health.Percent <= lowHealthThreshold);
     }
 
     void FixedUpdate()
@@ -82,17 +101,17 @@ public class PlayerController : MonoBehaviour
         rb.linearVelocity = new Vector2(moveX * speed, rb.linearVelocity.y);
     }
 
-    void Attack()
+    void Attack(int damage)
     {
         Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRadius, enemyLayer);
         foreach (Collider2D hit in hits)
         {
             EnemyPatrol patrol = hit.GetComponent<EnemyPatrol>();
             if (patrol != null && patrol.BackAttackOnly && !patrol.IsBehind(transform.position))
-                continue; // de frente no le hace da�o
+                continue; // de frente no le hace daño
 
             Health h = hit.GetComponent<Health>();
-            if (h != null) h.TakeDamage(attackDamage);
+            if (h != null) h.TakeDamage(damage);
         }
     }
 
@@ -102,26 +121,25 @@ public class PlayerController : MonoBehaviour
             Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
     }
 
-  private void OnTriggerEnter2D(Collider2D collision)
-{
-    if (collision.transform.CompareTag("Coin"))
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        Destroy(collision.gameObject);
-        coins++;
-        textcoins.text = coins.ToString();
+        if (collision.transform.CompareTag("Coin"))
+        {
+            Destroy(collision.gameObject);
+            coins++;
+            textcoins.text = coins.ToString();
 
-        if (GameManager.Instance != null)
-            GameManager.Instance.AddCoin();
+            if (GameManager.Instance != null)
+                GameManager.Instance.AddCoin();
+        }
+        else if (collision.CompareTag("Estrella"))
+        {
+            Destroy(collision.gameObject);
+            estrella++;
+            textestrella.text = estrella.ToString();
+
+            if (GameManager.Instance != null)
+                GameManager.Instance.AddStar();
+        }
     }
-    else if (collision.CompareTag("Estrella"))
-    {
-        Destroy(collision.gameObject);
-        estrella++;
-        textestrella.text = estrella.ToString();
-
-        if (GameManager.Instance != null)
-            GameManager.Instance.AddStar();
-    }
-}
-
 }
