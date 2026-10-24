@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: b1aa9f72ea935a34ab20acd10621a07f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4345426941881699117
+    second: Logotipo pixel art de The Dark Knight_0
+  - first:
+      213: -1117818411314165626
+    second: Logotipo pixel art de The Dark Knight_1
+  - first:
+      213: -2025157442726090074
+    second: Logotipo pixel art de The Dark Knight_2
+  - first:
+      213: -3499332409273905909
+    second: Logotipo pixel art de The Dark Knight_3
+  - first:
+      213: 7383804400746412658
+    second: Logotipo pixel art de The Dark Knight_4
+  - first:
+      213: -197546136401700448
+    second: Logotipo pixel art de The Dark Knight_5
+  - first:
+      213: -1366311573960092907
+    second: Logotipo pixel art de The Dark Knight_6
+  - first:
+      213: 6924661550718693246
+    second: Logotipo pixel art de The Dark Knight_7
+  - first:
+      213: 1452033517386289268
+    second: Logotipo pixel art de The Dark Knight_8
+  - first:
+      213: 3463027943384872682
+    second: Logotipo pixel art de The Dark Knight_9
+  - first:
+      213: 8030004335100321174
+    second: Logotipo pixel art de The Dark Knight_10
+  - first:
+      213: 5292336549642130871
+    second: Logotipo pixel art de The Dark Knight_11
+  - first:
+      213: -8982918459362139466
+    second: Logotipo pixel art de The Dark Knight_12
+  - first:
+      213: 1562196668413698914
+    second: Logotipo pixel art de The Dark Knight_13
+  - first:
+      213: 1061520809153807221
+    second: Logotipo pixel art de The Dark Knight_14
+  - first:
+      213: 7313051188522999263
+    second: Logotipo pixel art de The Dark Knight_15
+  - first:
+      213: -7253225894695245675
+    second: Logotipo pixel art de The Dark Knight_16
+  - first:
+      213: -3108736155434161177
+    second: Logotipo pixel art de The Dark Knight_17
+  - first:
+      213: -196485441307057002
+    second: Logotipo pixel art de The Dark Knight_18
+  - first:
+      213: -3836053073446895925
+    second: Logotipo pixel art de The Dark Knight_19
+  - first:
+      213: 2541531141600627734
+    second: Logotipo pixel art de The Dark Knight_20
+  - first:
+      213: 6039159532137049543
+    second: Logotipo pixel art de The Dark Knight_21
+  - first:
+      213: 3780020736829062809
+    second: Logotipo pixel art de The Dark Knight_22
+  - first:
+      213: -2624476731683419768
+    second: Logotipo pixel art de The Dark Knight_23
+  - first:
+      213: -5589438305882304066
+    second: Logotipo pixel art de The Dark Knight_24
+  - first:
+      213: 5083802224023101145
+    second: Logotipo pixel art de The Dark Knight_25
+  - first:
+      213: 5191032341658168642
+    second: Logotipo pixel art de The Dark Knight_26
+  - first:
+      213: 5587835986555771660
+    second: Logotipo pixel art de The Dark Knight_27
+  - first:
+      213: 7323021645463596870
+    second: Logotipo pixel art de The Dark Knight_28
+  - first:
+      213: -457296979430508344
+    second: Logotipo pixel art de The Dark Knight_29
+  - first:
+      213: -9140051479691156228
+    second: Logotipo pixel art de The Dark Knight_30
+  - first:
+      213: 6870096600686601402
+    second: Logotipo pixel art de The Dark Knight_31
+  - first:
+      213: 5221297897159377317
+    second: Logotipo pixel art de The Dark Knight_32
+  - first:
+      213: -3533825705603783259
+    second: Logotipo pixel art de The Dark Knight_33
+  - first:
+      213: 7823485975056746710
+    second: Logotipo pixel art de The Dark Knight_34
+  - first:
+      213: -5711237702586463841
+    second: Logotipo pixel art de The Dark Knight_35
+  - first:
+      213: -8099739708675913441
+    second: Logotipo pixel art de The Dark Knight_36
+  - first:
+      213: 4802263134107739323
+    second: Logotipo pixel art de The Dark Knight_37
+  - first:
+      213: 2714974382806452410
+    second: Logotipo pixel art de The Dark Knight_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 773
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b4544d7ce0e4c30800000000000000
+      internalID: 4345426941881699117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 735
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6884a3ec316bc70f0800000000000000
+      internalID: -1117818411314165626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 769
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaa21c190235e3e0800000000000000
+      internalID: -2025157442726090074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_3
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 768
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d873ac6bfdf6fc0800000000000000
+      internalID: -3499332409273905909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_4
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 770
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ab47d3bfa887660800000000000000
+      internalID: 7383804400746412658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_5
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 766
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a99609e5dc224df0800000000000000
+      internalID: -197546136401700448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_6
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 758
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5139a9dccd2e90de0800000000000000
+      internalID: -1366311573960092907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2004
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fa460fdf6591060800000000000000
+      internalID: 6924661550718693246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 751
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47055c57ac8a62410800000000000000
+      internalID: 1452033517386289268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 751
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f4bc01952f0030800000000000000
+      internalID: 3463027943384872682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 751
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5082e56e407f60800000000000000
+      internalID: 8030004335100321174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_11
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 749
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b55c394d08227940800000000000000
+      internalID: 5292336549642130871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_12
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 760
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ab673143465380800000000000000
+      internalID: -8982918459362139466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_13
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 753
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263e812d7990ea510800000000000000
+      internalID: 1562196668413698914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_14
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 754
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5734c4f3d874bbe00800000000000000
+      internalID: 1061520809153807221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_15
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 734
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd592c4f4d2d7560800000000000000
+      internalID: 7313051188522999263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_16
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 750
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598660f5a7d575b90800000000000000
+      internalID: -7253225894695245675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_17
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 752
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebeeeaffec8bd4d0800000000000000
+      internalID: -3108736155434161177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_18
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 742
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6946b5b3881f54df0800000000000000
+      internalID: -196485441307057002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 734
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcef6a1dd0a93cac0800000000000000
+      internalID: -3836053073446895925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_20
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 718
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cc2b09b15554320800000000000000
+      internalID: 2541531141600627734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_21
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 740
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd61fef8976fc350800000000000000
+      internalID: 6039159532137049543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_22
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 720
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e7e4e25d4557430800000000000000
+      internalID: 3780020736829062809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_23
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 732
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8894bbe415cf39bd0800000000000000
+      internalID: -2624476731683419768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_24
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 726
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19ce399735e62b0800000000000000
+      internalID: -5589438305882304066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_25
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 725
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dedc37003b4d8640800000000000000
+      internalID: 5083802224023101145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_26
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 726
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d691659604a0840800000000000000
+      internalID: 5191032341658168642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 696
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b1dc1693bfb8d40800000000000000
+      internalID: 5587835986555771660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_28
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 574
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64faa54336990a560800000000000000
+      internalID: 7323021645463596870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_29
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 564
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c87f20f1da57a9f0800000000000000
+      internalID: -457296979430508344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_30
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 530
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a934fa93082180800000000000000
+      internalID: -9140051479691156228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_31
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 533
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab42b80857c775f50800000000000000
+      internalID: 6870096600686601402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_32
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 400
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1cdaa16c6c57840800000000000000
+      internalID: 5221297897159377317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_33
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 405
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5a7576e3455fec0800000000000000
+      internalID: -3533825705603783259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 335
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d802803b0b929c60800000000000000
+      internalID: 7823485975056746710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f990485a19b9db0b0800000000000000
+      internalID: -5711237702586463841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_36
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 14
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f190f3336a1f79f80800000000000000
+      internalID: -8099739708675913441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4227280e015a240800000000000000
+      internalID: 4802263134107739323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logotipo pixel art de The Dark Knight_38
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 25
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c67d01d68da520800000000000000
+      internalID: 2714974382806452410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logotipo pixel art de The Dark Knight_0: 4345426941881699117
+      Logotipo pixel art de The Dark Knight_1: -1117818411314165626
+      Logotipo pixel art de The Dark Knight_10: 8030004335100321174
+      Logotipo pixel art de The Dark Knight_11: 5292336549642130871
+      Logotipo pixel art de The Dark Knight_12: -8982918459362139466
+      Logotipo pixel art de The Dark Knight_13: 1562196668413698914
+      Logotipo pixel art de The Dark Knight_14: 1061520809153807221
+      Logotipo pixel art de The Dark Knight_15: 7313051188522999263
+      Logotipo pixel art de The Dark Knight_16: -7253225894695245675
+      Logotipo pixel art de The Dark Knight_17: -3108736155434161177
+      Logotipo pixel art de The Dark Knight_18: -196485441307057002
+      Logotipo pixel art de The Dark Knight_19: -3836053073446895925
+      Logotipo pixel art de The Dark Knight_2: -2025157442726090074
+      Logotipo pixel art de The Dark Knight_20: 2541531141600627734
+      Logotipo pixel art de The Dark Knight_21: 6039159532137049543
+      Logotipo pixel art de The Dark Knight_22: 3780020736829062809
+      Logotipo pixel art de The Dark Knight_23: -2624476731683419768
+      Logotipo pixel art de The Dark Knight_24: -5589438305882304066
+      Logotipo pixel art de The Dark Knight_25: 5083802224023101145
+      Logotipo pixel art de The Dark Knight_26: 5191032341658168642
+      Logotipo pixel art de The Dark Knight_27: 5587835986555771660
+      Logotipo pixel art de The Dark Knight_28: 7323021645463596870
+      Logotipo pixel art de The Dark Knight_29: -457296979430508344
+      Logotipo pixel art de The Dark Knight_3: -3499332409273905909
+      Logotipo pixel art de The Dark Knight_30: -9140051479691156228
+      Logotipo pixel art de The Dark Knight_31: 6870096600686601402
+      Logotipo pixel art de The Dark Knight_32: 5221297897159377317
+      Logotipo pixel art de The Dark Knight_33: -3533825705603783259
+      Logotipo pixel art de The Dark Knight_34: 7823485975056746710
+      Logotipo pixel art de The Dark Knight_35: -5711237702586463841
+      Logotipo pixel art de The Dark Knight_36: -8099739708675913441
+      Logotipo pixel art de The Dark Knight_37: 4802263134107739323
+      Logotipo pixel art de The Dark Knight_38: 2714974382806452410
+      Logotipo pixel art de The Dark Knight_4: 7383804400746412658
+      Logotipo pixel art de The Dark Knight_5: -197546136401700448
+      Logotipo pixel art de The Dark Knight_6: -1366311573960092907
+      Logotipo pixel art de The Dark Knight_7: 6924661550718693246
+      Logotipo pixel art de The Dark Knight_8: 1452033517386289268
+      Logotipo pixel art de The Dark Knight_9: 3463027943384872682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
