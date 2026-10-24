@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: e13f0eaccc7c2f84ead4a99a49a459b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1947134942315703423
+    second: "muerte y da\xF1o slime_0"
+  - first:
+      213: -3306569943925592585
+    second: "muerte y da\xF1o slime_1"
+  - first:
+      213: 9203772640702304268
+    second: "muerte y da\xF1o slime_2"
+  - first:
+      213: 6981322179110128165
+    second: "muerte y da\xF1o slime_3"
+  - first:
+      213: 829220778246557842
+    second: "muerte y da\xF1o slime_4"
+  - first:
+      213: -1702046541861830199
+    second: "muerte y da\xF1o slime_5"
+  - first:
+      213: 7850686019096227062
+    second: "muerte y da\xF1o slime_6"
+  - first:
+      213: 6570114663919831732
+    second: "muerte y da\xF1o slime_7"
+  - first:
+      213: -5291271865069712333
+    second: "muerte y da\xF1o slime_8"
+  - first:
+      213: -8437022081041419404
+    second: "muerte y da\xF1o slime_9"
+  - first:
+      213: -1685304382078522044
+    second: "muerte y da\xF1o slime_10"
+  - first:
+      213: 7455801300072421165
+    second: "muerte y da\xF1o slime_11"
+  - first:
+      213: 8633198829015995145
+    second: "muerte y da\xF1o slime_12"
+  - first:
+      213: -8764798489977619829
+    second: "muerte y da\xF1o slime_13"
+  - first:
+      213: -1910187444885598413
+    second: "muerte y da\xF1o slime_14"
+  - first:
+      213: 1683643624735059110
+    second: "muerte y da\xF1o slime_15"
+  - first:
+      213: 5464406656913048102
+    second: "muerte y da\xF1o slime_16"
+  - first:
+      213: 8693475970285492464
+    second: "muerte y da\xF1o slime_17"
+  - first:
+      213: 2510710750036593923
+    second: "muerte y da\xF1o slime_18"
+  - first:
+      213: 910891116502046636
+    second: "muerte y da\xF1o slime_19"
+  - first:
+      213: 6181837700861742366
+    second: "muerte y da\xF1o slime_20"
+  - first:
+      213: -2745111912866139013
+    second: "muerte y da\xF1o slime_21"
+  - first:
+      213: 8705053452285547386
+    second: "muerte y da\xF1o slime_22"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_0"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 562
+        width: 153
+        height: 126
+      alignment: 9
+      pivot: {x: 0.62609905, y: 0.37239972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183958916136af4e0800000000000000
+      internalID: -1947134942315703423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_1"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 563
+        width: 158
+        height: 126
+      alignment: 9
+      pivot: {x: 0.61532515, y: 0.33837357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde45ba724bc12d0800000000000000
+      internalID: -3306569943925592585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_2"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 563
+        width: 156
+        height: 93
+      alignment: 9
+      pivot: {x: 0.55496645, y: 0.3847479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00158af37e5abf70800000000000000
+      internalID: 9203772640702304268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_3"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 559
+        width: 174
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5061603, y: 0.24275781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a4a648883a2e060800000000000000
+      internalID: 6981322179110128165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_4"
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 759
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29052c787ebf18b00800000000000000
+      internalID: 829220778246557842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_5"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 406
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c42120bd1168e0800000000000000
+      internalID: -1702046541861830199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_6"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 347
+        width: 194
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48715368, y: 0.33528322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2b53f65d33fc60800000000000000
+      internalID: 7850686019096227062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_7"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 464
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac6841a7cbd2b50800000000000000
+      internalID: 6570114663919831732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_8"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 493
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c4088e540a196b0800000000000000
+      internalID: -5291271865069712333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_9"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 347
+        width: 150
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6071838, y: 0.40542573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47336695e1da9ea80800000000000000
+      internalID: -8437022081041419404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_10"
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 279
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63719785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44decc7f7989c98e0800000000000000
+      internalID: -1685304382078522044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_11"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 205
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2756b6a7c3587760800000000000000
+      internalID: 7455801300072421165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_12"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 435
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90311d628984fc770800000000000000
+      internalID: 8633198829015995145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_13"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 282
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25609672, y: 0.53049046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af005163e2d5680800000000000000
+      internalID: -8764798489977619829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_14"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 441
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fce25b3a6ad75e0800000000000000
+      internalID: -1910187444885598413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_15"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 287
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2fa4d4f08d5710800000000000000
+      internalID: 1683643624735059110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_16"
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 266
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5609741, y: 0.5823181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622059d17e875db40800000000000000
+      internalID: 5464406656913048102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_17"
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 317
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8d240c55e65a870800000000000000
+      internalID: 8693475970285492464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_18"
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 348
+        width: 130
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41250268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d8fa5ff16d7d220800000000000000
+      internalID: 2510710750036593923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_19"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 265
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7d924f4a224ac00800000000000000
+      internalID: 910891116502046636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_20"
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 269
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d4bfad2ac4ac550800000000000000
+      internalID: 6181837700861742366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_21"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 340
+        width: 133
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29138654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74bbec624767e9d0800000000000000
+      internalID: -2745111912866139013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "muerte y da\xF1o slime_22"
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 341
+        width: 94
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7394465eff8ec870800000000000000
+      internalID: 8705053452285547386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e0f22c8d81358342950edc3aed5ea60
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "muerte y da\xF1o slime_0": -1947134942315703423
+      "muerte y da\xF1o slime_1": -3306569943925592585
+      "muerte y da\xF1o slime_10": -1685304382078522044
+      "muerte y da\xF1o slime_11": 7455801300072421165
+      "muerte y da\xF1o slime_12": 8633198829015995145
+      "muerte y da\xF1o slime_13": -8764798489977619829
+      "muerte y da\xF1o slime_14": -1910187444885598413
+      "muerte y da\xF1o slime_15": 1683643624735059110
+      "muerte y da\xF1o slime_16": 5464406656913048102
+      "muerte y da\xF1o slime_17": 8693475970285492464
+      "muerte y da\xF1o slime_18": 2510710750036593923
+      "muerte y da\xF1o slime_19": 910891116502046636
+      "muerte y da\xF1o slime_2": 9203772640702304268
+      "muerte y da\xF1o slime_20": 6181837700861742366
+      "muerte y da\xF1o slime_21": -2745111912866139013
+      "muerte y da\xF1o slime_22": 8705053452285547386
+      "muerte y da\xF1o slime_3": 6981322179110128165
+      "muerte y da\xF1o slime_4": 829220778246557842
+      "muerte y da\xF1o slime_5": -1702046541861830199
+      "muerte y da\xF1o slime_6": 7850686019096227062
+      "muerte y da\xF1o slime_7": 6570114663919831732
+      "muerte y da\xF1o slime_8": -5291271865069712333
+      "muerte y da\xF1o slime_9": -8437022081041419404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
