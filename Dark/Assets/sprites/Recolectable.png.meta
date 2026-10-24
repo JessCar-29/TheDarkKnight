@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 68710f7e1cfa63e4fb46b09515f40a01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1571419494261220109
+    second: Recolectable_0
+  - first:
+      213: 6301150588420605335
+    second: Recolectable_1
+  - first:
+      213: -3060542914660283878
+    second: Recolectable_2
+  - first:
+      213: -5411028612540583731
+    second: Recolectable_3
+  - first:
+      213: 786587702381845965
+    second: Recolectable_4
+  - first:
+      213: 8388674129544751020
+    second: Recolectable_5
+  - first:
+      213: -4241709728892007500
+    second: Recolectable_6
+  - first:
+      213: 3844590434144541186
+    second: Recolectable_7
+  - first:
+      213: -5019437342752333484
+    second: Recolectable_8
+  - first:
+      213: -3112537316389808718
+    second: Recolectable_9
+  - first:
+      213: -8274527986868579812
+    second: Recolectable_10
+  - first:
+      213: -353891283316071655
+    second: Recolectable_11
+  - first:
+      213: -3685044950659205203
+    second: Recolectable_12
+  - first:
+      213: 4946658390200680501
+    second: Recolectable_13
+  - first:
+      213: 2065880759608773702
+    second: Recolectable_14
+  - first:
+      213: 2877364213165881722
+    second: Recolectable_15
+  - first:
+      213: 5578447689393873526
+    second: Recolectable_16
+  - first:
+      213: -1613564731396608720
+    second: Recolectable_17
+  - first:
+      213: -6836959467534289347
+    second: Recolectable_18
+  - first:
+      213: 1137297273610144865
+    second: Recolectable_19
+  - first:
+      213: 253425920668209044
+    second: Recolectable_20
+  - first:
+      213: 1117926534902267261
+    second: Recolectable_21
+  - first:
+      213: -730848395912028650
+    second: Recolectable_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recolectable_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 772
+        width: 158
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795cd03431f227750800000000000000
+      internalID: 6301150588420605335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 773
+        width: 162
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ac5df3f64c685d0800000000000000
+      internalID: -3060542914660283878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 772
+        width: 160
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd192909558aea00800000000000000
+      internalID: 786587702381845965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 772
+        width: 161
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7260cfcae8a6470800000000000000
+      internalID: 8388674129544751020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 361
+        width: 197
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbc211a97b6225c0800000000000000
+      internalID: -4241709728892007500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 361
+        width: 191
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20adc0e51aaba5530800000000000000
+      internalID: 3844590434144541186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 361
+        width: 195
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451aae4b450675ab0800000000000000
+      internalID: -5019437342752333484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_10
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 363
+        width: 188
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c129ba2e2a8fa2d80800000000000000
+      internalID: -8274527986868579812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 178
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a797c27c1837ee720800000000000000
+      internalID: 2877364213165881722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 33
+        width: 172
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ab6c1e90aa6d40800000000000000
+      internalID: 5578447689393873526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 35
+        width: 147
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36ffd9869d3e11a0800000000000000
+      internalID: -6836959467534289347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectable_19
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 35
+        width: 149
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c8d8d38dd78cf00800000000000000
+      internalID: 1137297273610144865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c2c9e03dc958aba4e96cf541a9b5ca17
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recolectable_0: -1571419494261220109
+      Recolectable_1: 6301150588420605335
+      Recolectable_10: -8274527986868579812
+      Recolectable_11: -353891283316071655
+      Recolectable_12: -3685044950659205203
+      Recolectable_13: 4946658390200680501
+      Recolectable_14: 2065880759608773702
+      Recolectable_15: 2877364213165881722
+      Recolectable_16: 5578447689393873526
+      Recolectable_17: -1613564731396608720
+      Recolectable_18: -6836959467534289347
+      Recolectable_19: 1137297273610144865
+      Recolectable_2: -3060542914660283878
+      Recolectable_20: 253425920668209044
+      Recolectable_21: 1117926534902267261
+      Recolectable_22: -730848395912028650
+      Recolectable_3: -5411028612540583731
+      Recolectable_4: 786587702381845965
+      Recolectable_5: 8388674129544751020
+      Recolectable_6: -4241709728892007500
+      Recolectable_7: 3844590434144541186
+      Recolectable_8: -5019437342752333484
+      Recolectable_9: -3112537316389808718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
