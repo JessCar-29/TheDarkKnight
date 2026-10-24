@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: f56c2c9c02944ba48acf91827bed54fb
+guid: 2f5ea037c6635074f9c04b34cd8706f8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4583596132829291289
-    second: vida_0
+      213: -9170793842636754217
+    second: Reintentar hover_0
+  - first:
+      213: 3242586066847895386
+    second: Reintentar hover_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,27 +112,40 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vida_0
+      name: Reintentar hover_1
       rect:
         serializedVersion: 2
-        x: 121
-        y: 119
-        width: 497
-        height: 150
+        x: 0
+        y: 231
+        width: 2172
+        height: 304
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ec1bd42a9bc360c0800000000000000
-      internalID: -4583596132829291289
+      spriteID: a5f891c09dafffc20800000000000000
+      internalID: 3242586066847895386
       vertices: []
       indices: 
       edges: []
@@ -138,7 +154,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0321f1f797038b14b8e040530853c2d8
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +164,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      vida_0: -4583596132829291289
+      Reintentar hover_0: -9170793842636754217
+      Reintentar hover_1: 3242586066847895386
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
