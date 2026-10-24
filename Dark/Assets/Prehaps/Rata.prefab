@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3114739109069306105}
   - component: {fileID: 4367864483029693710}
   m_Layer: 6
-  m_Name: Knight
+  m_Name: Rata
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31,8 +31,8 @@ Transform:
   m_GameObject: {fileID: 84318106679956044}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 25.87, y: -10.04, z: 0}
-  m_LocalScale: {x: 5.213552, y: 6.183144, z: 1.5631874}
+  m_LocalPosition: {x: 25.508, y: -10.291, z: 0}
+  m_LocalScale: {x: 3.2311962, y: 3.832119, z: 0.96881455}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7274678710922166251}
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1107217989793704244, guid: 6a59ce8e757dafe429f1182cf98b33b0, type: 3}
+  m_Sprite: {fileID: 8793639957104055765, guid: 06bcc4d7ce9d91b4d957a1f2bb07f55b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -182,17 +182,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.059535824, y: -0.14712909}
+  m_Offset: {x: 0.0020863414, y: -0.004987821}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.26, y: 0.62}
+    oldSize: {x: 0.7, y: 0.7}
     newSize: {x: 1.01, y: 1.31}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.16268407, y: 0.33707768}
+  m_Size: {x: 0.4247563, y: 0.224798}
   m_EdgeRadius: 0
 --- !u!114 &3114739109069306105
 MonoBehaviour:
