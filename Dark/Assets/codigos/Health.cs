@@ -34,6 +34,13 @@ public class Health : MonoBehaviour
         else if (anim) anim.SetTrigger("Hurt");
     }
 
+    // Cura vida sin pasar del máximo
+    public void Heal(int amount)
+    {
+        if (IsDead) return;
+        current = Mathf.Min(current + amount, maxHealth);
+    }
+
     void Die()
     {
         current = 0;

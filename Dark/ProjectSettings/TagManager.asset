@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coin
   - Estrella
+  - Pocion
   layers:
   - Default
   - TransparentFX

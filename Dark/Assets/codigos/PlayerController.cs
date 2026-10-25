@@ -1,5 +1,4 @@
 using UnityEngine;
-using TMPro;
 
 public class PlayerController : MonoBehaviour
 {
@@ -24,6 +23,7 @@ public class PlayerController : MonoBehaviour
 
     [Header("Vida")]
     [SerializeField] float lowHealthThreshold = 0.6f;  // por debajo (o igual) usa el idle herido
+    [SerializeField] int healPerPotion = 1;            // vida que cura cada poción
 
     Rigidbody2D rb;
     Animator anim;
@@ -35,10 +35,6 @@ public class PlayerController : MonoBehaviour
     float attackingUntil;
     int comboStep;          // 0 = ninguno todavía
     float lastAttackTime;
-    private int coins;
-    public TMP_Text textcoins;
-    private int estrella;
-    public TMP_Text textestrella;
     public int vida = 3;
 
 
@@ -123,23 +119,10 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.transform.CompareTag("Coin"))
+        if (collision.CompareTag("Pocion"))
         {
             Destroy(collision.gameObject);
-            coins++;
-            textcoins.text = coins.ToString();
-
-            if (GameManager.Instance != null)
-                GameManager.Instance.AddCoin();
-        }
-        else if (collision.CompareTag("Estrella"))
-        {
-            Destroy(collision.gameObject);
-            estrella++;
-            textestrella.text = estrella.ToString();
-
-            if (GameManager.Instance != null)
-                GameManager.Instance.AddStar();
+            health.Heal(healPerPotion);
         }
     }
 }
