@@ -1,4 +1,3 @@
 # The Dark Knight
 
-Jesús Carbono
-Gabriel Escobar
+Jesús Carbono  -  Gabriel Escobar
