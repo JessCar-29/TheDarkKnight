@@ -217,7 +217,7 @@ MonoBehaviour:
   maxHealth: 3
   destroyOnDeath: 1
   destroyDelay: 1.5
-  invulnerableTime: 0.5
+  invulnerableTime: 0.1
   isPlayer: 0
 --- !u!114 &2123753948715169559
 MonoBehaviour:
@@ -231,7 +231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 874b91f5d9d00cc4d9c37c419e2c22fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol
-  speed: 2
+  speed: 1
   spriteFacesRight: 1
   edgeCheck: {fileID: 2297305369722513642}
   groundLayer:
